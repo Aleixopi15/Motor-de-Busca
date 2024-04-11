@@ -1,3 +1,0 @@
-# Optional per-host configurable cookies. Format:
-#
-# <host>\t<cookie>
